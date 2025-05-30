@@ -13,6 +13,7 @@ function uppg7() {
 
 
 let addNumbers = returnSumFunction(5, 10);
+return addNumbers;
 }
 
 module.exports = { uppg7 };
